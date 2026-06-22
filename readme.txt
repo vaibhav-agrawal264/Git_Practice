@@ -1,2 +1,1 @@
-"Hello Git" 
-"This is my second git practice"
+"This line is from main branch." 
